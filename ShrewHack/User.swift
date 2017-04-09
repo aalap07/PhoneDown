@@ -2,8 +2,8 @@
 //  User.swift
 //  ShrewHack
 //
-//  Created by Asher Dale on 4/8/17.
-//  Copyright © 2017 Asher Dale. All rights reserved.
+//  Created by Aalap Patel on 4/8/17.
+//  Copyright © 2017 Aalap Patel. All rights reserved.
 //
 
 import UIKit
